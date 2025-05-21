@@ -4,7 +4,7 @@
 
 ## 概述
 
-FBX Mesh Extractor 是一款 Unity 編輯器擴充工具，能夠快速從 FBX 檔案中提取所有 Mesh 資源，並將其儲存為獨立的資產檔案。這個工具對於需要單獨存取和操作模型網格的開發者特別有用。
+FBX Mesh Extractor 是一款 Unity 編輯器擴充工具，能夠快速從 FBX 檔案中提取所有 Mesh 資源，並將其儲存為獨立的資產檔案。
 
 ![Screenshot 2025-05-21 155503](https://github.com/user-attachments/assets/5583421a-d5be-48f1-bdf5-59c0d0b18746)
 
