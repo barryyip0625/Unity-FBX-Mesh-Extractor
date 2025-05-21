@@ -1,6 +1,6 @@
 # FBX Mesh Extractor for Unity
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Readme_ZH](https://img.shields.io/badge/UnityFBXMeshExtractor-%E4%B8%AD%E6%96%87%E6%96%87%E6%AA%94-red)](https://github.com/barryyip0625/Unity-FBX-Mesh-Extractor/blob/main/README_ZH.md)
 
 ## Overview
 
