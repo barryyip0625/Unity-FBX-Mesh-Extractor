@@ -6,6 +6,8 @@
 
 FBX Mesh Extractor is a Unity editor extension tool that allows you to quickly extract all mesh assets from FBX files and save them as independent asset files. This tool is particularly useful for developers who need to access and manipulate model meshes individually.
 
+![Screenshot 2025-05-21 155503](https://github.com/user-attachments/assets/5583421a-d5be-48f1-bdf5-59c0d0b18746)
+
 ## Features
 
 - Extract all mesh assets from any FBX file
